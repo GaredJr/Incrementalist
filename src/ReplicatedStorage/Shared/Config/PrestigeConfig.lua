@@ -1,0 +1,52 @@
+local PrestigeConfig = {
+	REPRINT_FORMULA = {
+		divisor = 2600,
+		exponent = 0.45,
+	},
+	speed_branch = {
+		id = "speed_branch",
+		sortOrder = 1,
+		name = "Fresh Ink",
+		description = "Boost all Hype gains by 15% per level.",
+		currency = "inkShards",
+		baseCost = 1,
+		costGrowth = 2,
+		maxLevel = 3,
+		type = "prestige",
+	},
+	rarity_branch = {
+		id = "rarity_branch",
+		sortOrder = 2,
+		name = "Rare Press",
+		description = "Boost Uncommon+ sticker production by 20% per level.",
+		currency = "inkShards",
+		baseCost = 1,
+		costGrowth = 2.25,
+		maxLevel = 3,
+		type = "prestige",
+	},
+	offline_branch = {
+		id = "offline_branch",
+		sortOrder = 3,
+		name = "After Hours",
+		description = "Extend offline progress cap by 1 hour per level.",
+		currency = "inkShards",
+		baseCost = 1,
+		costGrowth = 1.75,
+		maxLevel = 3,
+		type = "prestige",
+	},
+	curator_branch = {
+		id = "curator_branch",
+		sortOrder = 4,
+		name = "Archive Gloss",
+		description = "Boost collection set bonuses by 20% per level.",
+		currency = "inkShards",
+		baseCost = 2,
+		costGrowth = 2.5,
+		maxLevel = 3,
+		type = "prestige",
+	},
+}
+
+return PrestigeConfig

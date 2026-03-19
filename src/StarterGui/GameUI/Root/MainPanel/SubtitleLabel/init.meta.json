@@ -1,0 +1,15 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Size": { "UDim2": [[1.0, 0], [0.0, 42]] },
+    "Position": { "UDim2": [[0.0, 0], [0.0, 34]] },
+    "BackgroundTransparency": 1,
+    "Text": "Rojo-authored shell loaded. Gameplay panels are added by the client controller.",
+    "Font": "GothamMedium",
+    "TextSize": 15,
+    "TextColor3": [0.4823529412, 0.3803921569, 0.2784313725],
+    "TextWrapped": true,
+    "TextXAlignment": "Left",
+    "TextYAlignment": "Top"
+  }
+}

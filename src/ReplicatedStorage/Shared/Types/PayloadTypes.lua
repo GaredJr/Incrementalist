@@ -1,0 +1,38 @@
+local PayloadTypes = {
+	RemoteNames = {
+		RequestCollect = "RequestCollect",
+		RequestPrintSticker = "RequestPrintSticker",
+		RequestBuyUpgrade = "RequestBuyUpgrade",
+		RequestMergeSticker = "RequestMergeSticker",
+		RequestReprint = "RequestReprint",
+		RequestClaimQuest = "RequestClaimQuest",
+		RequestUnlockZone = "RequestUnlockZone",
+		RequestSelectZone = "RequestSelectZone",
+		RequestUpdateSetting = "RequestUpdateSetting",
+		TrackClientEvent = "TrackClientEvent",
+		GetInitialState = "GetInitialState",
+		StateUpdated = "StateUpdated",
+	},
+	UpdateReasons = {
+		InitialState = "InitialState",
+		Collected = "Collected",
+		StickerPrinted = "StickerPrinted",
+		ProductionTick = "ProductionTick",
+		UpgradePurchased = "UpgradePurchased",
+		MergeCompleted = "MergeCompleted",
+		ReprintCompleted = "ReprintCompleted",
+		QuestClaimed = "QuestClaimed",
+		OfflineProgress = "OfflineProgress",
+		ActionRejected = "ActionRejected",
+		PlayerLoaded = "PlayerLoaded",
+		ZoneUnlocked = "ZoneUnlocked",
+		ZoneSelected = "ZoneSelected",
+		SettingUpdated = "SettingUpdated",
+		DailyBoardRefreshed = "DailyBoardRefreshed",
+		CollectionCompleted = "CollectionCompleted",
+		TutorialAdvanced = "TutorialAdvanced",
+		NotificationQueued = "NotificationQueued",
+	},
+}
+
+return PayloadTypes

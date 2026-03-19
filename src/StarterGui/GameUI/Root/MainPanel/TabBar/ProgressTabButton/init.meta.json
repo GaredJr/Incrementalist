@@ -1,0 +1,13 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "Size": { "UDim2": [[0.32, 0], [1.0, 0]] },
+    "Position": { "UDim2": [[0.34, 0], [0.0, 0]] },
+    "BackgroundColor3": [1.0, 0.9490196078, 0.8117647059],
+    "BorderSizePixel": 0,
+    "Text": "Progress",
+    "Font": "FredokaOne",
+    "TextSize": 17,
+    "TextColor3": [0.2862745098, 0.2039215686, 0.1411764706]
+  }
+}

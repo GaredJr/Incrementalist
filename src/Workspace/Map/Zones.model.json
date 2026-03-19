@@ -1,0 +1,107 @@
+{
+  "ClassName": "Folder",
+  "Children": [
+    {
+      "Name": "sticker_street",
+      "ClassName": "Folder",
+      "Children": [
+        {
+          "Name": "Floor",
+          "ClassName": "Part",
+          "Properties": {
+            "Anchored": true,
+            "CanCollide": true,
+            "Size": [52, 1, 52],
+            "Position": [0, -3, 0],
+            "Color": [0.9568627477, 0.890196085, 0.721568644]
+          }
+        },
+        {
+          "Name": "BoardSpawn",
+          "ClassName": "SpawnLocation",
+          "Properties": {
+            "Anchored": true,
+            "Neutral": true,
+            "Size": [8, 1, 8],
+            "Position": [0, 1, 0],
+            "Color": [1, 0.8392156959, 0.400000006]
+          }
+        },
+        {
+          "Name": "BoardFocus",
+          "ClassName": "Part",
+          "Properties": {
+            "Anchored": true,
+            "CanCollide": false,
+            "Transparency": 1,
+            "Size": [1, 1, 1],
+            "Position": [0, 5, 0]
+          }
+        },
+        {
+          "Name": "ZonePortal",
+          "ClassName": "Part",
+          "Properties": {
+            "Anchored": true,
+            "CanCollide": false,
+            "Transparency": 0.3000000119,
+            "Size": [6, 8, 1],
+            "Position": [20, 2, -20],
+            "Color": [1, 0.6000000238, 0.2823529541]
+          }
+        }
+      ]
+    },
+    {
+      "Name": "neon_alley",
+      "ClassName": "Folder",
+      "Children": [
+        {
+          "Name": "Floor",
+          "ClassName": "Part",
+          "Properties": {
+            "Anchored": true,
+            "CanCollide": true,
+            "Size": [52, 1, 52],
+            "Position": [64, -3, 0],
+            "Color": [0.1254902035, 0.1450980455, 0.2666666806]
+          }
+        },
+        {
+          "Name": "BoardSpawn",
+          "ClassName": "SpawnLocation",
+          "Properties": {
+            "Anchored": true,
+            "Neutral": true,
+            "Size": [8, 1, 8],
+            "Position": [64, 1, 0],
+            "Color": [0.2392156869, 0.5058823824, 1]
+          }
+        },
+        {
+          "Name": "BoardFocus",
+          "ClassName": "Part",
+          "Properties": {
+            "Anchored": true,
+            "CanCollide": false,
+            "Transparency": 1,
+            "Size": [1, 1, 1],
+            "Position": [64, 5, 0]
+          }
+        },
+        {
+          "Name": "ZonePortal",
+          "ClassName": "Part",
+          "Properties": {
+            "Anchored": true,
+            "CanCollide": false,
+            "Transparency": 0.3000000119,
+            "Size": [6, 8, 1],
+            "Position": [44, 2, -20],
+            "Color": [0.2392156869, 0.5058823824, 1]
+          }
+        }
+      ]
+    }
+  ]
+}

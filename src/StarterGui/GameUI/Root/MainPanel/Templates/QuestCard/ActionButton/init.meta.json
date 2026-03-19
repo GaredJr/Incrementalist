@@ -1,0 +1,13 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "Size": { "UDim2": [[1.0, -24], [0.0, 30]] },
+    "Position": { "UDim2": [[0.0, 12], [0.0, 80]] },
+    "BackgroundColor3": [0.937254902, 0.7490196078, 0.231372549],
+    "BorderSizePixel": 0,
+    "Text": "Claim",
+    "Font": "FredokaOne",
+    "TextSize": 16,
+    "TextColor3": [1.0, 1.0, 1.0]
+  }
+}

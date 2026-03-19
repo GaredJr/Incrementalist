@@ -1,0 +1,14 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "Size": { "UDim2": [[0.28, 0], [0.0, 42]] },
+    "Position": { "UDim2": [[0.36, 0], [0.55, 0]] },
+    "BackgroundColor3": [1.0, 0.6, 0.2823529412],
+    "BorderSizePixel": 0,
+    "ZIndex": 23,
+    "Text": "Retry",
+    "Font": "FredokaOne",
+    "TextSize": 18,
+    "TextColor3": [1.0, 1.0, 1.0]
+  }
+}

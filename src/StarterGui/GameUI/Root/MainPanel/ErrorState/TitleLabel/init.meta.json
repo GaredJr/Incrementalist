@@ -1,0 +1,13 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Size": { "UDim2": [[0.7, 0], [0.0, 28]] },
+    "Position": { "UDim2": [[0.15, 0], [0.38, -26]] },
+    "BackgroundTransparency": 1,
+    "ZIndex": 23,
+    "Text": "Client Error",
+    "Font": "FredokaOne",
+    "TextSize": 24,
+    "TextColor3": [0.8274509804, 0.3254901961, 0.2745098039]
+  }
+}

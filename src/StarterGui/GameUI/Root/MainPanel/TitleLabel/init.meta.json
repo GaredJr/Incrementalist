@@ -1,0 +1,14 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Size": { "UDim2": [[1.0, 0], [0.0, 30]] },
+    "Position": { "UDim2": [[0.0, 0], [0.0, 0]] },
+    "BackgroundTransparency": 1,
+    "Text": "Sticker Street Tycoon",
+    "Font": "FredokaOne",
+    "TextSize": 28,
+    "TextColor3": [0.2862745098, 0.2039215686, 0.1411764706],
+    "TextXAlignment": "Left",
+    "TextYAlignment": "Top"
+  }
+}

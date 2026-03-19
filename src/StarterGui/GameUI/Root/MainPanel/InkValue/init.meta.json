@@ -1,0 +1,14 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Size": { "UDim2": [[0.32, 0], [0.0, 52]] },
+    "Position": { "UDim2": [[0.34, 0], [0.0, 86]] },
+    "BackgroundColor3": [0.2392156863, 0.5058823529, 1.0],
+    "BorderSizePixel": 0,
+    "Text": "Ink: 0",
+    "Font": "FredokaOne",
+    "TextSize": 22,
+    "TextColor3": [1.0, 1.0, 1.0],
+    "TextWrapped": true
+  }
+}

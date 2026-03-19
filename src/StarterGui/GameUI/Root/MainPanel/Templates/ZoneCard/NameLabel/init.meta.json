@@ -1,0 +1,13 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Size": { "UDim2": [[1.0, -24], [0.0, 20]] },
+    "Position": { "UDim2": [[0.0, 12], [0.0, 10]] },
+    "BackgroundTransparency": 1,
+    "Text": "Zone",
+    "Font": "FredokaOne",
+    "TextSize": 18,
+    "TextColor3": [0.2862745098, 0.2039215686, 0.1411764706],
+    "TextXAlignment": "Left"
+  }
+}

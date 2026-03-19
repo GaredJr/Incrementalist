@@ -1,0 +1,13 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "Size": { "UDim2": [[1.0, -24], [0.0, 32]] },
+    "Position": { "UDim2": [[0.0, 12], [0.0, 84]] },
+    "BackgroundColor3": [0.2392156863, 0.5058823529, 1.0],
+    "BorderSizePixel": 0,
+    "Text": "Action",
+    "Font": "FredokaOne",
+    "TextSize": 16,
+    "TextColor3": [1.0, 1.0, 1.0]
+  }
+}

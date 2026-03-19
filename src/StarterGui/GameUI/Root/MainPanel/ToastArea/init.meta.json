@@ -1,0 +1,9 @@
+{
+  "className": "Frame",
+  "properties": {
+    "Size": { "UDim2": [[0.0, 300], [0.0, 180]] },
+    "Position": { "UDim2": [[1.0, -312], [0.0, 12]] },
+    "BackgroundTransparency": 1,
+    "BorderSizePixel": 0
+  }
+}

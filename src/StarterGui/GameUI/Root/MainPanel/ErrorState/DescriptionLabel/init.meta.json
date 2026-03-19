@@ -1,0 +1,14 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Size": { "UDim2": [[0.7, 0], [0.0, 52]] },
+    "Position": { "UDim2": [[0.15, 0], [0.38, 4]] },
+    "BackgroundTransparency": 1,
+    "ZIndex": 23,
+    "Text": "If this message stays up, use Retry to request state again.",
+    "Font": "GothamMedium",
+    "TextSize": 15,
+    "TextWrapped": true,
+    "TextColor3": [0.4823529412, 0.3803921569, 0.2784313725]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "className": "TextButton",
+  "properties": {
+    "Size": { "UDim2": [[1.0, 0], [0.0, 56]] },
+    "Position": { "UDim2": [[0.0, 0], [0.0, 148]] },
+    "BackgroundColor3": [1.0, 0.6, 0.2823529412],
+    "BorderSizePixel": 0,
+    "Text": "Tap The Board",
+    "Font": "FredokaOne",
+    "TextSize": 20,
+    "TextColor3": [1.0, 1.0, 1.0]
+  }
+}

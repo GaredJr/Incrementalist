@@ -1,0 +1,14 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Size": { "UDim2": [[1.0, 0], [0.0, 20]] },
+    "Position": { "UDim2": [[0.0, 0], [0.0, 210]] },
+    "BackgroundTransparency": 1,
+    "Text": "Manual collect: +0 Hype",
+    "Font": "GothamMedium",
+    "TextSize": 15,
+    "TextColor3": [0.4823529412, 0.3803921569, 0.2784313725],
+    "TextXAlignment": "Left",
+    "TextYAlignment": "Top"
+  }
+}
